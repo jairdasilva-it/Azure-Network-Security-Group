@@ -16,7 +16,7 @@ Ce projet a été réalisé dans le cadre de ma préparation à la certification
 
 ---
 
-## 🛠️ Technologies utilisées
+## 💻 Technologies utilisées
 
 - Microsoft Azure
 - Azure Network Security Group (NSG)
